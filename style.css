@@ -1,0 +1,29 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.navbar .nav-item .nav-link.active,
+.navbar .nav-item .nav-link:hover
+{
+    color: #fb6a27;
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary .navbar-brand{
+    margin-left: -13px;
+}
+
+.container.mt-5 .row .col-7 h3{
+    color: #fb6a27;
+}
+
+.container.mt-5 .row .col-7 .d-flex.gap-3 h3{
+    color: black;
+}
+
+.container.mt-5 .row .col-7 h1{
+    font-weight: 800;
+}
+
+.container.mt-5 h4{
+    color: #fb6a27;
+}
